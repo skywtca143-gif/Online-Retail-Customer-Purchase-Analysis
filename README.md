@@ -125,4 +125,4 @@ This project demonstrates how Python and Pandas can be used to read and display 
 **Language:** Python  
 **Project Type:** Mini Project
 
-Author Sanjeet Yadav
+Author Sanjeet kumar Yadav
